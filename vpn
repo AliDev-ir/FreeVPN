@@ -55,7 +55,6 @@ vless://d9b3134e-007e-41e0-a146-8c53977e27f5@104.25.221.166:443?path=%2F&securit
 
 vless://f0815d23-7a73-49ff-b3e5-2dbd787eeddd@[::ffff:310d:452e]:35689?mode=gun&security=reality&encryption=none&pbk=4ShiXcO4VVtmlyWzNE2DAtIwkeD7KKZgwgY-lfkNm3w&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=ea.com&sid=11b12101#MarkazeAhan%20%7C%20SERVER%2028
 
-vmess://eyJhZGQiOiIxOTkuMjQ3LjMuOTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNGU0OGYzNmMtMmFjMy00ZTE1LThjOWMtNjcwMjQ3N2E2MWRmIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTEwOSIsInBzIjoi8J+HqfCfh6pERSB8IPCfn6IgfCB2bWVzcyB8IEBvbmVjbGlja3ZwbmtleXMgfCAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@www.speedtest.net:443?path=V1%2F%3Fed&security=tls&encryption=none&host=worker-sweet-sun-58f9.qranth.workers.dev&type=ws&sni=worker-sweet-sun-58f9.qranth.workers.dev#MarkazeAhan%20%7C%20SERVER%2030
 
