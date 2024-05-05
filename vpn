@@ -1,57 +1,65 @@
-vless://e31bb16e-91f9-47e7-9947-e2a19f294fd4@78.39.57.29:8888?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#MarkazeAhan%20%7C%20SERVER%201
+vless://8a052c65-bdf6-485a-c1d7-cb2b23f15dfa@104.16.6.65:443?path=%2F&security=tls&encryption=none&host=germany-frankfurt.bitplatform.cloud&fp=random&type=ws&sni=germany-frankfurt.bitplatform.cloud#MarkazeAhan%20%7C%20SERVER%201
 
-trojan://telegram-id-privatevpns@3.71.219.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#MarkazeAhan%20%7C%20SERVER%202
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#MarkazeAhan%20%7C%20SERVER%202
 
-trojan://telegram-id-directvpn@13.36.226.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#MarkazeAhan%20%7C%20SERVER%203
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#MarkazeAhan%20%7C%20SERVER%203
 
-trojan://telegram-id-directvpn@3.10.238.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#MarkazeAhan%20%7C%20SERVER%204
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#MarkazeAhan%20%7C%20SERVER%204
 
-trojan://telegram-id-privatevpns@52.212.162.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#MarkazeAhan%20%7C%20SERVER%205
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#MarkazeAhan%20%7C%20SERVER%205
 
-trojan://telegram-id-privatevpns@3.65.234.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#MarkazeAhan%20%7C%20SERVER%206
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.16.160.137:443?path=%2FirhfpYO0S9VRvTSg%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=bIA-PAIN-BacHe.pAGeS.DEV&fp=randomized&type=ws&sni=BiA-PAiN-bAcHe.PAGes.deV#MarkazeAhan%20%7C%20SERVER%206
 
-trojan://telegram-id-directvpn@13.36.145.41:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#MarkazeAhan%20%7C%20SERVER%207
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.18.23.19:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#MarkazeAhan%20%7C%20SERVER%207
 
-vless://1436ec94-4d33-4931-8a18-ed43a2a7d11d@188.114.98.224:2095?path=%2FV2rayCUSTOMIZE%3Fed&security=none&encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&type=ws#MarkazeAhan%20%7C%20SERVER%208
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.16.54.150:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=BiA-pAIN-bACHE.pAges.DEv&fp=randomized&type=ws&sni=BIa-pAIN-bAche.PagEs.DeV#MarkazeAhan%20%7C%20SERVER%208
 
-trojan://telegram-id-privatevpns@13.42.131.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#MarkazeAhan%20%7C%20SERVER%209
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.19.12.170:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=Bia-PAIN-baChe.paGEs.DeV&fp=randomized&type=ws&sni=BIa-PaiN-baChE.pageS.dev#MarkazeAhan%20%7C%20SERVER%209
 
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=%2FJAR0HGBT6mwTVcbf%3Fed&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#MarkazeAhan%20%7C%20SERVER%2010
+vless://MsV2ray-MsV2ray-MsV2ray@back.msv2ray.online:80?path=%2FMsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray%3Fed&security=none&encryption=none&host=www.zula.ir.www.cafebazaar.ir.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website.&type=ws#MarkazeAhan%20%7C%20SERVER%2010
 
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#MarkazeAhan%20%7C%20SERVER%2011
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=%2FJAR0HGBT6mwTVcbf%3Fed&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#MarkazeAhan%20%7C%20SERVER%2011
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.169.141.161:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#MarkazeAhan%20%7C%20SERVER%2012
+vmess://eyJhZGQiOiIyMDUuMjM0LjIzMS4zNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1MGU4MjU4MS1iZDE0LTQ1MjctZjdkNi1lNzgyNGNkMjZmNTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMxNDMzIiwicHMiOiLwn4e68J+HuFVTIHwg8J+foiB8IHZtZXNzIHwgQFNoYWRvd1Byb3h5NjYgfCA1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?path=%2FOyaFdNKpGFcX0BjG%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=MIumIumADrEkOsE.pAGeS.dev&fp=randomized&type=ws&sni=miumiUMadReKoSE.pAgES.dEv#MarkazeAhan%20%7C%20SERVER%2013
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.17.80.220:443?path=%2FsFZQZZqpGa0nQ6jR%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=BIA-paIN-bAcHe.PAGeS.DEV&fp=randomized&type=ws&sni=BIa-PAiN-BAChe.PAGeS.dev#MarkazeAhan%20%7C%20SERVER%2013
 
-vless://ad19c2cb-202e-4126-a004-265737ca4006@visa.com:8443?path=Telegram%40V2ray_Alpha%2F%3Fed&security=tls&encryption=none&host=telegram-falcunargo-turky.falcunar.asso.eu.org&fp=random&type=ws&sni=telegram-falcunargo-turky.falcunar.asso.eu.org#MarkazeAhan%20%7C%20SERVER%2014
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=%2FJAR0HGBT6mwTVcbf%3Fed&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#MarkazeAhan%20%7C%20SERVER%2014
 
-vless://Parsashonam-57@104.18.12.130:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#MarkazeAhan%20%7C%20SERVER%2015
+vmess://eyJhZGQiOiIyMDUuMjM0LjIzMS4zNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1MGU4MjU4MS1iZDE0LTQ1MjctZjdkNi1lNzgyNGNkMjZmNTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMxNDMzIiwicHMiOiLwn4e68J+HuFVTIHwg8J+foiB8IHZtZXNzIHwgQFNoYWRvd1Byb3h5NjYgfCA1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-vless://d3ee451d-3877-4c0a-858f-0b4e4a00de99@66.235.200.129:8443?path=%2F&security=tls&encryption=none&host=vmessorg.xn--54qv00ez5ar77g.co&fp=chrome&type=ws&sni=vmessorg.xn--54qv00ez5ar77g.co#MarkazeAhan%20%7C%20SERVER%2016
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.17.80.220:443?path=%2FsFZQZZqpGa0nQ6jR%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=BIA-paIN-bAcHe.PAGeS.DEV&fp=randomized&type=ws&sni=BIa-PAiN-BAChe.PAGeS.dev#MarkazeAhan%20%7C%20SERVER%2016
 
-vless://03728bdd-745c-4ef6-a01f-70b006d3bbae@104.21.40.63:443?path=%2Fnimws&security=tls&encryption=none&host=thorianite.toptechnonews.com&type=ws&sni=thorianite.toptechnonews.com#MarkazeAhan%20%7C%20SERVER%2017
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=%2Ftelegram-marambashi%2F%3Fed&security=tls&encryption=none&host=bIA-paIn-bacHE.PAGeS.DEv&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#MarkazeAhan%20%7C%20SERVER%2017
 
-vless://f189beb3-12b1-430b-a270-c759c9e29810@185.146.173.32:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=ch.amshviip.ir#MarkazeAhan%20%7C%20SERVER%2018
+vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?path=%2F%3Fed&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&sni=bpb-worker-panel-h5f.pages.dev#MarkazeAhan%20%7C%20SERVER%2018
 
-vless://f0815d23-7a73-49ff-b3e5-2dbd787eeddd@49.13.69.46:35689?mode=gun&security=reality&encryption=none&pbk=4ShiXcO4VVtmlyWzNE2DAtIwkeD7KKZgwgY-lfkNm3w&fp=chrome&type=grpc&serviceName=&sni=ea.com&sid=11b12101#MarkazeAhan%20%7C%20SERVER%2019
+vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.19.189.243:443?path=%2FnE7meFlT0ypOeZDB%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=AzAdnET-semEj.PaGes.Dev&fp=randomized&type=ws&sni=aZadNEt-sEmEj.paGES.dEv#MarkazeAhan%20%7C%20SERVER%2019
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#MarkazeAhan%20%7C%20SERVER%2020
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=Telegram-proxy_mtm%2F%3Fed&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#MarkazeAhan%20%7C%20SERVER%2020
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.154.89.79:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#MarkazeAhan%20%7C%20SERVER%2021
+vless://telegram-id-ArV2ray@zula.ir:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=w-1-_-1-_-.v2oti.Com#MarkazeAhan%20%7C%20SERVER%2021
 
-vless://041f929a-63f6-4af1-a492-8cbff5797b8a@avval.ir:2096?path=%2F%3Fed&security=tls&encryption=none&host=telegram-falcunargo-emiratess.falcunar.asso.eu.org&fp=random&type=ws&sni=telegram-falcunargo-emiratess.falcunar.asso.eu.org#MarkazeAhan%20%7C%20SERVER%2022
+trojan://telegram-id-privatevpns@54.72.117.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#MarkazeAhan%20%7C%20SERVER%2022
 
-vless://Parsashonam-57@www.visa.com:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#MarkazeAhan%20%7C%20SERVER%2023
+vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@www.speedtest.net:443?path=%2F%3Fed&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&sni=bpb-worker-panel-h5f.pages.dev#MarkazeAhan%20%7C%20SERVER%2023
 
-vless://--DIGIV2RAY--@185.146.173.32:80?path=%2FDigiv2ray-%3FTelegram&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MarkazeAhan%20%7C%20SERVER%2024
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#MarkazeAhan%20%7C%20SERVER%2024
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxcTdSTkthSWsyd1lPOGZFUG1FWDB2V1E3VmErUVJUQQ==@91.192.81.21:8388#MarkazeAhan%20%7C%20SERVER%2025
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?path=%2FOyaFdNKpGFcX0BjG%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=MIumIumADrEkOsE.pAGeS.dev&fp=randomized&type=ws&sni=miumiUMadReKoSE.pAgES.dEv#MarkazeAhan%20%7C%20SERVER%2025
 
-vless://2cd66574-9843-43ab-8a0a-df4a744bb859@tgju.org:8443?path=%2F%3Fed&security=tls&encryption=none&host=telegram-falcunargo-sued.falcunar.asso.eu.org&fp=random&type=ws&sni=telegram-falcunargo-sued.falcunar.asso.eu.org#MarkazeAhan%20%7C%20SERVER%2026
+vless://76241e82-8ded-416a-9d4c-84d5a0989149@172.64.155.189:443?path=TELEGRAM-MARAMBASHI%2F%3Fed&security=tls&encryption=none&alpn=h3&host=pOrIYA-wARphIddiFy-PAnel.paGeS.DEV&fp=chrome&type=ws&sni=pORiyA-warPhIDdify-PANEL.PAGEs.DeV#MarkazeAhan%20%7C%20SERVER%2026
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#MarkazeAhan%20%7C%20SERVER%2027
+vless://1ef2cc1a-3758-49a4-b811-a584892ddc90@www.visa.com.sg:8443?path=%2F%3Fed&security=tls&encryption=none&host=pardazeshvpn-tg28.pages.dev&fp=random&type=ws&sni=pardazeshvpn-tg28.pages.dev#MarkazeAhan%20%7C%20SERVER%2027
 
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#MarkazeAhan%20%7C%20SERVER%2028
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#MarkazeAhan%20%7C%20SERVER%2028
 
-trojan://telegram-id-directvpn@3.10.99.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#MarkazeAhan%20%7C%20SERVER%2029
+vmess://eyJhZGQiOiIxMDQuMjYuNy42NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibWlrYXNhLnlhZW1pa28uY2xvdWRucy5vcmciLCJpZCI6IjQ0MWRhMzQyLWNlOTAtNDQxZS1iZmY5LWQyY2ViNTVlNjhjYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9pdmlkZW9zLnNicy9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn5qpQ0YgfCDwn5+iIHwgdm1lc3MgfCBAU2hhZG93UHJveHk2NiB8IDEyIiwic2N5IjoiYXV0byIsInNuaSI6Im1pa2FzYS55YWVtaWtvLmNsb3VkbnMub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=%2F%3Fed&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=randomized&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#MarkazeAhan%20%7C%20SERVER%2030
+
+vmess://eyJhZGQiOiJ6dWxhLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJqYWhma2poYS5jZmQiLCJpZCI6Ijk1MGRiNmFhLTQ5MjYtNDYxNi04MTZlLWVjMDMxMmRjYjg3YiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J+HuFVTIHwg8J+foiB8IHZtZXNzIHwgQFNoYWRvd1Byb3h5NjYgfCAyMyIsInNjeSI6ImF1dG8iLCJzbmkiOiJqYWhma2poYS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+vless://DIGIV2RAY@185.146.173.32:2095?path=%2FDIGIV2RAY-digiv2ray%3Fed&security=none&encryption=none&host=www.radiotehran.ir.www.iranseda.ir.%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%8E%BB%E7%9C%8B%E5%95%A5%E4%BA%8B%E6%83%85%E5%9F%BA%E6%9C%AC%E6%B2%A1%E5%95%A5%E4%BA%8B.website.&type=ws#MarkazeAhan%20%7C%20SERVER%2032
+
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?path=Telegram-FreeVirGoolNet%2F%3Fed&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#MarkazeAhan%20%7C%20SERVER%2033
