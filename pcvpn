@@ -29,3 +29,4 @@ vless://339e041a-bbe3-5f3b-b46e-f78eeb5b580f@23.227.39.222:2053?encryption=none&
 vless://f93ee5ea-2b69-49cb-aa7f-8e59c55f9e2f@www.speedtest.net:80?encryption=none&security=none&type=ws&host=ch1.dontbow.store.&path=%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray#MarkazeAhan%20%7C%20SERVER%2029
 vless://339e041a-bbe3-5f3b-b46e-f78eeb5b580f@104.16.78.197:2096?encryption=none&security=tls&sni=your.local-host.WorkerS.Dev&alpn=http%2F1.1&fp=chrome&type=ws&host=your.local-host.WorkerS.Dev&path=vless-ws%2F%3Fed%3D2048#MarkazeAhan%20%7C%20SERVER%2030
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?security=tls&sni=sherasheba.com&type=ws&host=sherasheba.com&path=%2F6b777a91#MarkazeAhan%20%7C%20SERVER%2031
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=%2F6b777a91#MarkazeAhan%20%7C%20SERVER%2032
