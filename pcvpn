@@ -1,9 +1,7 @@
-vless://af54f086-e86c-49a2-9753-015b9c099ecd@78.157.39.125:25194?encryption=none&security=none&type=tcp&headerType=http&host=alibaba.ir#MarkazeAhan%20%7C%20SERVER%201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#MarkazeAhan%20%7C%20SERVER%202
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#MarkazeAhan%20%7C%20SERVER%203
-vless://ada6ebdd-bdfa-44fb-989c-672051790aeb@v2tr.topacp.store:2053?encryption=none&security=none&type=tcp&headerType=http#MarkazeAhan%20%7C%20SERVER%204
-vless://03e5c56f-3066-4f50-ab26-03cf8cb07e54@91.108.145.240:2222?encryption=none&security=none&type=tcp&headerType=none#MarkazeAhan%20%7C%20SERVER%205
-ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#MarkazeAhan%20%7C%20SERVER%206
-ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#MarkazeAhan%20%7C%20SERVER%207
-ss://Y2hhY2hhMjAtcG9seTEzMDU6cHZnejlwcQ==@54.36.174.140:443#MarkazeAhan%20%7C%20SERVER%208
-ss://Y2hhY2hhMjAtcG9seTEzMDU6cHZnejlwcQ==@54.36.174.140:443#MarkazeAhan%20%7C%20SERVER%209
+vless://03e5c56f-3066-4f50-ab26-03cf8cb07e54@91.108.145.240:2222?encryption=none&security=none&type=tcp&headerType=none#MarkazeAhan%20%7C%20SERVER%201
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#MarkazeAhan%20%7C%20SERVER%202
+ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#MarkazeAhan%20%7C%20SERVER%203
+ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#MarkazeAhan%20%7C%20SERVER%204
+ss://Y2hhY2hhMjAtcG9seTEzMDU6cHZnejlwcQ==@54.36.174.140:443#MarkazeAhan%20%7C%20SERVER%205
+vless://af54f086-e86c-49a2-9753-015b9c099ecd@78.157.39.125:25194?encryption=none&security=none&type=tcp&headerType=http&host=alibaba.ir#MarkazeAhan%20%7C%20SERVER%206
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#MarkazeAhan%20%7C%20SERVER%207
